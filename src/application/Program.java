@@ -40,9 +40,7 @@ public class Program {
 		for (Installment installment : obj.getInstalments()) {
 			System.out.println(installment);
 		}
-		
-	
-		
+
 		
 		sc.close();
 
